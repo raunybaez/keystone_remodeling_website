@@ -1,1 +1,1 @@
-{"root":["../../src/vite-env.d.ts","../../src/hooks/use-toast.ts","../../src/lib/utils.ts","../../src/types/react-google-recaptcha.d.ts"],"errors":true,"version":"5.6.3"}
+{"root":["../../src/vite-env.d.ts","../../src/hooks/use-toast.ts","../../src/lib/utils.ts","../../src/types/react-google-recaptcha.d.ts"],"version":"5.6.3"}

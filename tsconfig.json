@@ -9,7 +9,8 @@
     "baseUrl": ".",
     "paths": {
       "@/*": ["./src/*"]
-    }
+    },
+    "lib": ["DOM", "DOM.Iterable", "ESNext"],   // <--- Add this line
+    "jsx": "react-jsx"                          // <--- Add this line
   }
 }
-

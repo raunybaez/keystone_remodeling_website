@@ -95,8 +95,8 @@ const ContactPage = () => {
                   <div className="ml-4">
                     <h3 className="text-lg font-medium text-slate-800">Our Location</h3>
                     <p className="mt-1 text-slate-600">
-                      123 Construction Way<br />
-                      Building City, ST 12345
+                      36 Williams Ave<br />
+                      Boston, MA 02136
                     </p>
                   </div>
                 </div>
@@ -111,7 +111,7 @@ const ContactPage = () => {
                   </div>
                   <div className="ml-4">
                     <h3 className="text-lg font-medium text-slate-800">Phone</h3>
-                    <p className="mt-1 text-slate-600">(555) 123-4567</p>
+                    <p className="mt-1 text-slate-600">(617) 431-6505</p>
                   </div>
                 </div>
                 
@@ -125,7 +125,7 @@ const ContactPage = () => {
                   </div>
                   <div className="ml-4">
                     <h3 className="text-lg font-medium text-slate-800">Email</h3>
-                    <p className="mt-1 text-slate-600">info@keystoneremodeling.com</p>
+                    <p className="mt-1 text-slate-600">raunybaez@gmail.com</p>
                   </div>
                 </div>
                 
